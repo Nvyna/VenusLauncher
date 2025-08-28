@@ -6,4 +6,5 @@
 
 <h1 align="center"> My Discord </h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/924899524860850186?borderRadius=10px&theme=dark&showDisplayName=true)](https://discord.com/users/924899524860850186)
+[![Discord Presence](https://lanyard.cnrad.dev/api/924899524860850186?borderRadius=10px&theme=dark&showDisplayName=true)](https://discord.com/users/924899524860850186) [![Discord Presence](https://lanyard.cnrad.dev/api/714803354055737366)](https://discord.com/users/714803354055737366)
+
